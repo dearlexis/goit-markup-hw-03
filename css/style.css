@@ -188,6 +188,10 @@ img {
 /* Основной блок */
 /* Преимущества */
 
+.advantage-section {
+  padding-bottom: 0;
+}
+
 .advantage-list {
   display: flex;
   list-style: none;
